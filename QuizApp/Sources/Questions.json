@@ -1,0 +1,46 @@
+{
+  "questions": [
+        {
+            "id": 1,
+            "level": "easy",
+            "question": "Nenne ein anderes Wort für Ehemann?",
+            "solution": "Gatte",
+		},
+		{
+            "id": 2,
+			"level": "easy",
+			"question": "Umgangssprachlich für Zahlungsmittel?",
+			"solution": "Geld",
+		},
+		{
+            "id": 3,
+			"level": "easy",
+			"question": "Wie nennt man geforenes Wasser?",
+			"solution": "Eis",
+		},
+		{
+            "id": 4,
+			"level": "easy",
+			"question": "Nenne das Gelenk im Bein?",
+			"solution": "Knie",
+		},
+		{
+            "id": 5,
+			"level": "easy",
+			"question": "Welches Wort bezeichnet das Schmelzen von Schnee?",
+			"solution": "tauen",
+		},
+        {
+            "id": 6,
+            "level": "medium",
+            "question": "Question 2",
+            "solution": "Answer 2",
+        },
+        {
+            "id": 7,
+            "level": "hard",
+            "question": "Question 3",
+            "solution": "Answer 3",
+        }
+    ]
+}
